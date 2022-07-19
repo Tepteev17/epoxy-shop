@@ -1,0 +1,28 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+    display: grid;
+    grid-auto-rows: auto 1fr auto;
+    min-height: 100vh;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style: none;
+}
+
+button {
+    cursor: pointer;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
